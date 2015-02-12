@@ -11,5 +11,5 @@ functionalities to a model.
 
 #Notes
 
-Look at the commits to see various concepts. A particular commit implements a particular concept which would it 
+Look at the commits to see various concepts. A particular commit implements a particular concept which would be 
 easy to understand from the code implementation.
