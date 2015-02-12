@@ -1,6 +1,6 @@
 from django.db import models
 
-# Proxy model example for a normal model
+# Proxy model example for a custom model
 class Person(models.Model):
     class Meta:
         db_table = 'person_info'
@@ -9,6 +9,7 @@ class Person(models.Model):
 
 class MyPerson(Person):
     class Meta:
+        ordering = ['last_name']
         proxy = True
 
     def __str__(self):
