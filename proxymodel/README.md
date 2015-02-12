@@ -5,9 +5,9 @@ functionalities to a model.
 
 #Concepts implemented
 
-Extending a model in a proxy model.
-Using ordering Meta option.
-Implementing custom manager in one of the proxy models.
+- Extending a model in a proxy model.
+- Using ordering Meta option.
+- Implementing custom manager in one of the proxy models.
 
 #Notes
 
