@@ -3,5 +3,5 @@ cd into the particular project and run it as explained in the project's readme t
 of the concept.
 
 #proxymodel
-Explains the concept of proxy model. The proxy model is used if we just have some behavioral changes to be made to our
+Explains the concept of proxy model. A proxy model is used if we just have some behavioral changes to be made to our
 model. By behavioral, I mean if we need to have custom managers or custom model methods, ordering etc.
